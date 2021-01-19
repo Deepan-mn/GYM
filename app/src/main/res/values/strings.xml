@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GYM</string>
+    <string-array name="workout_type">
+        <item>Chest</item>
+        <item>Shoulder</item>
+        <item>Bisceps</item>
+        <item>Triceps</item>
+
+    </string-array>
+</resources>
